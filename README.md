@@ -122,4 +122,6 @@ Buying on darknet markets requires caution, vigilance, and understanding. By fol
 
 Plase contribute and add stars to this repo.
 
-Update:  04.08.2025 onion links fixed
+
+
+Update:  13 August link is up and running
